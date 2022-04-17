@@ -64,4 +64,17 @@ The main objective of this project is to allow users to play MP3 and digital aud
 
 ![FLOW CHART](https://user-images.githubusercontent.com/98878326/163712321-830dac95-9291-441b-acef-5fc886aec653.png)
 
+## TESTPLAN AND OUTPUT
+
+# Test Plan and Output
+
+| ID | DESCRIPTION | STATUS |
+|---|--------------|--------|
+|1| Enter username and password|PASSED✅|
+|2|Play song|PASSED✅|
+|3|Pause song |PASSED✅|
+|4|Stop song| PASSED✅|
+|5| Resume song|PASSED✅|
+|6| Next Music| PASSED✅|
+
 
