@@ -27,6 +27,32 @@ The main objective of this project is to allow users to play MP3 and digital aud
 
 ## 5 W's and 1H
 
+![5w1H music plyr](https://user-images.githubusercontent.com/98878326/163710626-affcb75e-c539-4239-a38d-564f4bf15900.png)
+
+
 
 
 ## SWOT ANALYSIS
+
+![music player swotanlysis](https://user-images.githubusercontent.com/98878326/163664655-25f2923d-fb4c-4e9f-968c-646c420110b1.jpg)
+
+## DETAIL REQUIREMENTS
+
+# HIGH LEVEL REQUIREMENTS
+
+| ID | DESCRIPTION | STATUS |
+|----| ----------- | ------|
+|HL1|  Display all songs | Implemented |
+|HL2|  User has to choose one of the available albums | Implemented  |
+|HL3| User can change the language in which he wants to listen the song| Implemented|
+
+
+
+# LOW LEVEL REQUIREMENTS
+
+|ID| DESCRIPTION| STATUS|
+|--|------------|-------|
+|LL1| User can delete the song| Implemented|
+|LL2| Play song according to users choice| Implemented|
+
+
