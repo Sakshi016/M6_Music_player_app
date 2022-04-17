@@ -45,6 +45,8 @@ The main objective of this project is to allow users to play MP3 and digital aud
 |HL1|  Display all songs | Implemented |
 |HL2|  User has to choose one of the available albums | Implemented  |
 |HL3| User can change the language in which he wants to listen the song| Implemented|
+|HL4| Use of exception handling| Implemented |
+
 
 
 
@@ -54,5 +56,9 @@ The main objective of this project is to allow users to play MP3 and digital aud
 |--|------------|-------|
 |LL1| User can delete the song| Implemented|
 |LL2| Play song according to users choice| Implemented|
-
+|LL3|User can play the song | Implemented|
+|LL4| User can pause the song| Implemented|
+|LL5| User can Resume the song| Implemented|
+|LL6| User can stop music| Implemented |
+|LL7| User can play the next song | Implemented |
 
