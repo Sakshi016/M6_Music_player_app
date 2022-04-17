@@ -59,3 +59,9 @@ The main objective of this project is to allow users to play MP3 and digital aud
 |LL2| Play song according to users choice| Implemented|
 
 
+# FLOW CHART
+
+
+![FLOW CHART](https://user-images.githubusercontent.com/98878326/163712321-830dac95-9291-441b-acef-5fc886aec653.png)
+
+
