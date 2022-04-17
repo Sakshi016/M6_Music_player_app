@@ -27,6 +27,7 @@ The main objective of this project is to allow users to play MP3 and digital aud
 
 ## 5 W's and 1H
 
+![5w1H music plyr](https://user-images.githubusercontent.com/98878326/163710626-affcb75e-c539-4239-a38d-564f4bf15900.png)
 
 
 
